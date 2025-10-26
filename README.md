@@ -63,5 +63,6 @@ A **Python GUI-based file manager** that allows you to browse, upload, download,
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/cloud-file-manager.git
-cd cloud-file-manager
+git clone https://github.com/Abhix126/Cloud_File_Manager.git
+cd Cloud_File_Manager
+
